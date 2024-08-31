@@ -1,0 +1,81 @@
+.hero {
+ background-color: #bcccfe;
+}
+
+.hero h1 {
+  color:#694F8E;
+}
+
+.hero p {
+  color: #706894;
+}
+
+.profile-img {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%; 
+}
+
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 500;
+  font-size: 5rem;
+  font-style: normal;
+}
+
+.pt-sans-regular {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.hero {
+  height: 900px;
+}
+
+.about-me h1 {
+  font-weight: 200;
+  font-size: 4rem;
+} 
+
+.about-me h2 {
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+.about-me button {
+  background-color:#2a2b4d;
+}
+
+.about-me img {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+  border:40px;
+  border-color:rgb(156, 132, 132);
+  margin-bottom: 20px;
+}
+
+.about-me {
+  background-image: linear-gradient(180deg, #bcccfe, white);
+}
+
+.top-site img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-left: 20px;
+  margin-right:10px;
+}
+
+.navbar { 
+  background-color: #2a2b4d;
+}
+
+footer img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%; 
+
+}
